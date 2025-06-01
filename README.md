@@ -98,8 +98,8 @@ STEP 8: Stop.
 print(arr2[-2])
 
 ### Output:
- 
-![image](https://github.com/user-attachments/assets/032939c0-f500-4bbb-9b19-87b3c54d8454)
+ ![photo2](https://github.com/user-attachments/assets/b7df84e3-8253-4d8b-b4c4-8b5b535be9e7)
+
 
  
 
@@ -135,7 +135,8 @@ f,l = int(input()),int(input())
 
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/4a9076d8-a2cf-44e1-b7d1-e638b7edf12f)
+![photo1](https://github.com/user-attachments/assets/e0f66b85-6bd4-41fe-9449-03e73f2dbbd2)
+
 
 
 
