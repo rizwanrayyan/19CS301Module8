@@ -98,7 +98,7 @@ STEP 8: Stop.
 print(arr2[-2])
 
 ### Output:
- ![photo2](https://github.com/user-attachments/assets/b7df84e3-8253-4d8b-b4c4-8b5b535be9e7)
+![photo2](https://github.com/user-attachments/assets/b7df84e3-8253-4d8b-b4c4-8b5b535be9e7)
 
 
  
